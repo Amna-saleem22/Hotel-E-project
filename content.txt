@@ -27,28 +27,13 @@ This project was developed by students to solve problems related to manual hotel
 3. Problem Statement
 
 Many hotels still manage bookings manually which causes problems such as:
-
-Booking conflicts
-
-Difficulty managing customer data
-
-Slow reservation process
-
-Poor user experience
-
-This project solves these problems by creating an online hotel management system.
+Booking conflicts Difficulty managing customer data Slow reservation process Poor user experience This project solves these problems by creating an online hotel management system.
 
 4. Project Objectives
 
 The main objectives of this project are:
 
-Provide an online room booking system
-
-Manage hotel rooms efficiently
-
-Improve customer experience
-
-Automate hotel management processes
+Provide an online room booking system Manage hotel rooms efficiently Improve customer experience Automate hotel management processes
 
 5. About the Hotel
 
